@@ -1,14 +1,14 @@
 # dockerjavaexample
 
-This project build a docker which fail in some contexts. 
-For build:
-1) mvn clean install
-2) docker build -t dockerjavaexample .
-For run docker:
-1) docker run -it --rm -p 9090:9090 dockerjavaexample
-
-For view the problem:
-http://localhost:9090/hello
+This project build a docker which fail in some contexts. <br />
+For build:<br />
+1) mvn clean install<br />
+2) docker build -t dockerjavaexample .<br />
+For run docker:<br />
+1) docker run -it --rm -p 9090:9090 dockerjavaexample<br />
+<br />
+For view the problem:<br />
+http://localhost:9090/hello<br />
 
 I use Docker 1.9.0 in all cases.
 
