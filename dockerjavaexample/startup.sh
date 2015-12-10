@@ -1,0 +1,1 @@
+java -cp dockerjavaexample-0.0.1-SNAPSHOT.jar:lib/* dockerjavaexample.HelloWorld
