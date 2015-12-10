@@ -1,9 +1,9 @@
 # dockerjavaexample
 
-This project build a docker which fail in some contexts. <br />
+This project build a docker which fail in some contexts. <br /><br />
 For build:<br />
 1) mvn clean install<br />
-2) docker build -t dockerjavaexample .<br />
+2) docker build -t dockerjavaexample .<br /><br />
 For run docker:<br />
 1) docker run -it --rm -p 9090:9090 dockerjavaexample<br />
 <br />
